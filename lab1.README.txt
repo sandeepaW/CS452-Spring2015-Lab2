@@ -1,1 +1,5 @@
 name, date, description
+Shandeepa Wickramasinghe
+02/17/2015
+The code will create a 2D geometric figure, a compound figure of four triangles with red, green and blue in each vertex.
+My lab2.js file has three functions namely to draw the colored triangles, and to move the object, to switch between the 'S'(-Down), 'W'(-Up), 'A'(-left),'D'(-Right) and '1'(-Original Position),and the render function.
